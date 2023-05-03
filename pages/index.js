@@ -10,7 +10,7 @@ function Count (){
     return(
         <div>
             <div>{contador}</div>
-            <button onClick={Click}>isso é o auge da alucinação!!</button>
+            <button onClick={Click}>Clicar</button>
         </div>
     )
 }
