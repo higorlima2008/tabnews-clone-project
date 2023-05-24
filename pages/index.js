@@ -1,5 +1,9 @@
-function Home(){
-    return <h1>Rivka matadora de careca e Raquel cabelo de mel</h1>
-}
+import React from 'react';
 
-export default Home;
+export default function Card(){
+ return(
+   <div className="PrimeiroComponente">
+    <h1>Primeiro Componentezão</h1>
+</div>
+);
+}
