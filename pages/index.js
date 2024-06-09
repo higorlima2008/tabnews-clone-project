@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Eu te Amo Mãe 😍, feliz aniversário Atrasado😅</h1>;
+  return <h1>Feliz Aniversário Pai😅🎉🎉</h1>;
 }
 
 export default Home;
